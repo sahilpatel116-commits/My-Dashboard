@@ -1,0 +1,9 @@
+{
+  "name": "SubmitTrack — Deliverable & SRR tracking",
+  "short_name": "SubmitTrack",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E9EDF1",
+  "theme_color": "#0F2338",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
